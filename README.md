@@ -31,7 +31,7 @@ This project applies **Aspect-Based Sentiment Analysis** techniques to categoriz
 
 The repository contains the following core files and directories:
 
-├── API Programming- output- file.docx ├── Prompt- Ub-Sn-4o mini model.py ├── Prompt-Ub-Sn-4o model.py ├── Text Blob- file.py ├── Text Blob- output -file.docx ├── uber user feedback-DATAset(Driver Details).xlsx └── README.md <-- (This File)
+|API Programming- output- file.docx| Prompt- Ub-Sn-4o mini model.py |Prompt-Ub-Sn-4o model.py |Text Blob- file.py |Text Blob- output -file.docx| uber user feedback-DATAset(Driver Details).xlsx| README.md <-- (This File)
 
 
 | File / Folder                               | Description                                                                                                                                   |
