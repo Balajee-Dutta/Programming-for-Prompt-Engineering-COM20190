@@ -36,7 +36,7 @@ The repository contains the following core files and directories:
 
 | File / Folder                               | Description                                                                                                                                   |
 |---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| **API Programming- output- file.docx**      | Sample output from a GPT-based script where an external API call was used for aspect extraction and sentiment classification.                 |
+| **API Programming- output- file.docx**      | Shows all (60 + 60 user Feedback) output from a GPT-based script where an external API call was used for aspect extraction and sentiment classification.                 |
 | **Prompt- Ub-Sn-4o mini model.py**           | Demonstrates a Python script calling a GPT-like model (in “mini” form) to perform aspect-based sentiment analysis on the Uber feedback dataset. |
 | **Prompt-Ub-Sn-4o model.py**                 | Similar to the “mini model” but relies on a different GPT-based model. Handles data loading, sentiment classification, and result aggregation. |
 | **Text Blob- file.py**                       | Demonstrates use of the TextBlob library for aspect-based sentiment analysis. Scans user feedback for keywords and applies sentiment analysis.  |
