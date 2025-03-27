@@ -124,7 +124,7 @@ The console output will display sentiment results for each user review.
 Review the Output
 The scripts print sentiment analysis for each review. Additionally, the corresponding .docx files (API Programming- output- file.docx and Text Blob- output -file.docx) contain sample results.
 
-\\\\//////
+\\\\\//////
 Contact
 Questions, suggestions, or contributions may be directed via GitHub Issues or email:
 
